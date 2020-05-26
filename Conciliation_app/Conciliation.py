@@ -1,5 +1,2 @@
-from tkinter import *
-
-app = Tk()
-
-mainloop()
+class Conciliation:
+    pass
